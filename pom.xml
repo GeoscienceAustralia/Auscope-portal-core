@@ -349,7 +349,7 @@
         <pluginRepository>
             <id>nexus</id>
             <name>GA Nexus</name>
-            <url>https://nexus.flying-hellfish.cloud.ga.gov.au/repository/maven-public</url>
+            <url>https://nexus.customerdigitalservices.ga.gov.au/repository/maven-public</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -362,7 +362,7 @@
         <repository>
             <id>nexus</id>
             <name>GA Nexus</name>
-            <url>https://nexus.flying-hellfish.cloud.ga.gov.au/repository/maven-public</url>
+            <url>https://nexus.customerdigitalservices.ga.gov.au/repository/maven-public</url>
         </repository>
         <repository>
             <id>osgeo</id>
